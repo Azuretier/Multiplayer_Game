@@ -1,1 +1,2 @@
-# Multiplayer_Game
+# マルチプレイ可能
+Releaseからmulti.exeをダウンロードしてマルチプレイを楽しもう
